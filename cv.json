@@ -236,7 +236,8 @@
       "isActive": true,
       "description": "Portfolio where you can find personal projects I have worked on.",
       "highlights": ["Porfolio"],
-      "url": "https://stefernant-portfolio.netlify.app"
+      "url": "https://stefernant-portfolio.netlify.app",
+      "github": ""
     },
     {
       "name": "Nike store",
@@ -246,7 +247,8 @@
         "Nike store",
         "React & TypeScript", "Tailwind Css"
       ],
-      "url": "https://placeholder-nike-store.netlify.app/"
+      "url": "https://placeholder-nike-store.netlify.app/",
+      "github": ""
     },
     {
       "name": "React Twitter Autocomplete",
@@ -257,7 +259,8 @@
         "React & TypeScript",
         "X autocomplete placeholder"
       ],
-      "url": "https://autocomplete-twitter-react.netlify.app/"
+      "url": "https://autocomplete-twitter-react.netlify.app/",
+      "github": ""
     },
     {
       "name": "Get the weather",
@@ -267,7 +270,8 @@
         "weather",
         "JavaScript"
       ],
-      "url": "https://get-clima-react.netlify.app/"
+      "url": "https://get-clima-react.netlify.app/",
+      "github": ""
     },
     {
       "name": "Appointment bookings",
@@ -277,7 +281,8 @@
         "Appointment",
         "JavaScript"
       ],
-      "url": "https://admin-citas-mascotas.netlify.app/"
+      "url": "https://admin-citas-mascotas.netlify.app/",
+      "github": ""
     }
   ]
 }
