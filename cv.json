@@ -261,28 +261,6 @@
       ],
       "url": "https://autocomplete-twitter-react.netlify.app/",
       "github": ""
-    },
-    {
-      "name": "Get the weather",
-      "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
-      "highlights": [
-        "weather",
-        "JavaScript"
-      ],
-      "url": "https://get-clima-react.netlify.app/",
-      "github": ""
-    },
-    {
-      "name": "Appointment bookings",
-      "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
-      "highlights": [
-        "Appointment",
-        "JavaScript"
-      ],
-      "url": "https://admin-citas-mascotas.netlify.app/",
-      "github": ""
     }
   ]
 }
