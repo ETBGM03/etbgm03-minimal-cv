@@ -64,6 +64,7 @@ interface Volunteer {
 interface Skills {
   name: string
   level: string
+  slugIcon?: string;
   keywords: Array<string>
 }
 

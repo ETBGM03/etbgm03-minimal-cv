@@ -16,6 +16,9 @@ import Swift from "@/icons/swift.astro"
 import SwiftUI from "@/icons/swiftui.astro"
 import Kotlin from "@/icons/kotlin.astro"
 import Flutter from "@/icons/flutter.astro"
+import Postgress from "@/icons/postgress.astro"
+import Angular from "@/icons/angular.astro"
+import CSharp from '@/icons/c-sharp.astro'
 
 const SKILLS_ICONS: Record<string, any> = {
   HTML,
@@ -33,15 +36,15 @@ const SKILLS_ICONS: Record<string, any> = {
   SwiftUI,
   Kotlin,
   Flutter,
+  Postgress, Angular, CSharp
 }
 ---
 
-<Section title="Habilidades">
+<Section title="Skills">
   <ul>
     {
-      skills.map(({ name }) => {
-        const iconName = name === "Next.js" ? "Next" : name
-        const Icon = SKILLS_ICONS[iconName]
+      skills.map(({ name, slugIcon }) => {
+        const Icon = SKILLS_ICONS[slugIcon]
 
         return (
           <li>
